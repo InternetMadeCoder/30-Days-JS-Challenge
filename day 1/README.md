@@ -1,0 +1,1 @@
+Day 1 - Weather App using JavaScript
