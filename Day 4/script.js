@@ -24,7 +24,7 @@ async function searchImages(){
     results.map((result) =>{
         const image = document.createElement("img");
         image.src = result.urls.small;
-        image.src = `/30-Days-JS-Challenge/Day%204/${result.urls.small}`;
+        // image.src = `/30-Days-JS-Challenge/Day%204/${result.urls.small}`;
         const imageLink = document.createElement("a");
         imageLink.href = result.links.html;
         imageLink.target = "_blank";
