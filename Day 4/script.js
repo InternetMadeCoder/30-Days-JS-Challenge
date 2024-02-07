@@ -24,10 +24,10 @@ async function searchImages(){
     const results = data.results;
     results.map((result) =>{
         const image = document.createElement("img");
-        image.src = `./Day%204/images/${result.urls.small}`;
+        // image.src = `./Day%204/images/${result.urls.small}`;
 
-        // image.src = result.urls.small;
-        // image.src = `/30-Days-JS-Challenge/Day%204/${result.urls.small}`;
+        // image.src = result.urls.raw;
+        image.src = `/30-Days-JS-Challenge/Day%204/${result.urls.raw;
         // image.src = `./${result.urls.small}`;
         const imageLink = document.createElement("a");
         imageLink.href = result.links.html;
