@@ -24,7 +24,7 @@ async function searchImages(){
     const results = data.results;
     results.map((result) =>{
         const image = document.createElement("img");
-        image.src = `./images/${result.urls.small}`;
+        image.src = `./Day%204/images/${result.urls.small}`;
 
         // image.src = result.urls.small;
         // image.src = `/30-Days-JS-Challenge/Day%204/${result.urls.small}`;
