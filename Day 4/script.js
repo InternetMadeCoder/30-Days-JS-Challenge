@@ -2,7 +2,6 @@ const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
 const showMoreBtn = document.getElementById("show-more-btn");
-// const accessKey = "e3W-XI0Mlk3s4-ljk7z2c4W39ADKQwqeuMoglVYa2J4"
 const accessKey = "RDtdJY-Noy5hAK2DoAx_EggsxZOarE4gQVJ2r5svoos";
 
 let keyword = "";
@@ -24,10 +23,7 @@ async function searchImages(){
     const results = data.results;
     results.map((result) =>{
         const image = document.createElement("img");
-        // image.src = `./Day%204/images/${result.urls.small}`;
         image.src = result.urls.raw.replace(/^http:\/\//i, 'https://');
-        // image.src = result.urls.raw;
-        // image.src = `/30-Days-JS-Challenge/Day%204/${result.urls.raw}`;
         const imageLink = document.createElement("a");
         imageLink.href = result.links.html;
         imageLink.target = "_blank";
