@@ -42,6 +42,12 @@ body{
 .card.shake{
   animation: shake 0.35s ease-in-out;
 }
+
+.card .front-view span {
+    color: #6563ff;
+    font-size: 40px;
+}
+
 @keyframes shake {
   0%, 100%{
     transform: translateX(0);
