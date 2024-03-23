@@ -9,3 +9,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 5 :** [Snake Game](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%205/)
 - **Day 6 :** [Virtual Piano](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%206/)
 - **Day 7 :** [Memory Card Game](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%207/)
+- **Day 8 :** [Typing Speed Test](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%208/)
