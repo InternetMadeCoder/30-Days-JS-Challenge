@@ -11,3 +11,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 7 :** [Memory Card Game](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%207/)
 - **Day 8 :** [Typing Speed Test](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%208/)
 - **Day 9 :** [Gradient Colour Generator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%209/)
+- **Day 10 :** [Language Translator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2010/)
