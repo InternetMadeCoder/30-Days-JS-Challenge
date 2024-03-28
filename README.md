@@ -13,3 +13,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 9 :** [Gradient Colour Generator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%209/)
 - **Day 10 :** [Language Translator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2010/)
 - **Day 11 :** [Music Player](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2011/)
+- **Day 12 :** [Music Player](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2012/)
