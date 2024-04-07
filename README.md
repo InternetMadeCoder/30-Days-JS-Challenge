@@ -22,3 +22,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 18 :** [Pixel Art Generator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2018/)
 - **Day 19 :** [Tic Tac Toe](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2019/)
 - **Day 20 :** [Detect Internet Speed](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2020/)
+- **Day 21 :** [Colour Palette Generator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2021/)
