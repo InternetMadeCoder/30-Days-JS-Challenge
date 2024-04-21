@@ -25,3 +25,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 21 :** [Colour Palette Generator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2021/)
 - **Day 22 :** [Text Editor](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2022/)
 - **Day 23 :** [BMI Calculator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2023/)
+- **Day 24 :** [Image Colour Picker](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2024/)
