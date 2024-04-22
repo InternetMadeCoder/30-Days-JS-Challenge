@@ -26,3 +26,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 22 :** [Text Editor](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2022/)
 - **Day 23 :** [BMI Calculator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2023/)
 - **Day 24 :** [Image Colour Picker](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2024/)
+- **Day 25 :** [Painting App](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2025/)
