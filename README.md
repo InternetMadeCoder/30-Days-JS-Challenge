@@ -30,3 +30,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 26 :** [QR Code Generator](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2026/)
 - **Day 27 :** [QR Code Scanner](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2027/)
 - **Day 28 :** [Rock Paper Scissors](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2028/)
+- **Day 29 :** [Budgeting App](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2029/)
