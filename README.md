@@ -31,3 +31,4 @@ I'll be building a new project every day for the next 30 days to help me polish 
 - **Day 27 :** [QR Code Scanner](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2027/)
 - **Day 28 :** [Rock Paper Scissors](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2028/)
 - **Day 29 :** [Budgeting App](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2029/)
+- **Day 30 :** [Image Editor](https://internetmadecoder.github.io/30-Days-JS-Challenge/Day%2030/)
