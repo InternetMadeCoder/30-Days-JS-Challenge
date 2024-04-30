@@ -13,7 +13,7 @@ let image = document.getElementById("chosen-image");
 
 function resetFilter(){
     filterA.value = "0";
-    filterB.value = "100";      
+    filterB.value = "100";        
     filterC.value = "0";
     filterD.value = "0";
     noFlipBtn.checked = true;
