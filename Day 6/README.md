@@ -4,7 +4,7 @@ This is a simple virtual piano web application built using HTML, CSS, and JavaSc
 
 ## Features
 
-- Use keyboard keys to play piano sounds.
+- Use keyboard keys to play piano sounds.  
 - Adjust volume using a slider.
 - Toggle visibility of piano keys.
 
